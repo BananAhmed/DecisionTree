@@ -21,9 +21,10 @@ The project:
 - Evaluates model performance
 - Visualizes the decision tree
 
-- Output
-Classification report
+Output
 
-Confusion matrix
+-Classification report
 
-Decision tree visualization
+-Confusion matrix
+
+-Decision tree visualization
