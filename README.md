@@ -17,9 +17,14 @@ DecisionTree/
 
 The project:
 - Loads a dataset using 
-- Trains a decision tree classifier with `scikit-learn` and cheefboost
+- Trains a decision tree classifier with `scikit-learn` and the `Chefboost`  framework in Python.
 - Evaluates model performance
 - Visualizes the decision tree
+
+  ## What is Chefboost?
+
+Chefboost is a lightweight machine learning library for interpretable decision tree learning. It supports various algorithms like ID3, C4.5, CART, and CHAID.
+
 
 Output
 
