@@ -7,3 +7,16 @@ DecisionTree/
 ├── Parallel.ipynb # Jupyter notebook containing all code  for parallel part and outputs
 ├── dataset.csv # Sample dataset used for training/testing
 ├── README.md # Project documentation
+
+The project:
+- Loads a dataset using 
+- Trains a decision tree classifier with `scikit-learn` and cheefboost
+- Evaluates model performance
+- Visualizes the decision tree
+
+- Output
+Classification report
+
+Confusion matrix
+
+Decision tree visualization
